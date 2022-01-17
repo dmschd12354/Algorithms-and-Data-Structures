@@ -37,7 +37,7 @@ int main()
 		cout << arr1[i] << " ";
 	} cout << endl;
 
-	// Inputs (doubles)
+	// Inputs (strings)
 	string arr2[5] = { "Apple", "Mango", "Banana", "Juice", "Ant"};
 	Insertion_Sort(arr2, 5);
 
